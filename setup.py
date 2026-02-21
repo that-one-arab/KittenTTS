@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="kittentts",
-    version="0.1.0",
+    version="0.8.0",
     author="KittenML",
     author_email="",
     description="Ultra-lightweight text-to-speech model with just 15 million parameters",
